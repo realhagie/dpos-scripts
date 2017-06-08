@@ -6,7 +6,7 @@ SECRET="<ENTER SEVRET OF PAYING ACCOUNT HERE>"
 SECSECRET="<ENTER SECOND SCRET HERE>"
 #Amount of transaction * 10^8. Example: to send 1.1234 RISE, use 112340000 as amount */,
 #Set to 15 RISE
-SENDAMOUNT="1500000000"
+SENDAMOUNT="2500000000"
 OFFSET=0
 
 echo Amount of Delegates on Blockchain: $MAXDELEGATES
